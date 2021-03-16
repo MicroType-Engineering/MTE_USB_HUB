@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "mte_usb_hub")(type "KiCad")(uri "${KIPRJMOD}/../lib/mte_usb_hub.kicad_sym")(options "")(descr ""))
+)
