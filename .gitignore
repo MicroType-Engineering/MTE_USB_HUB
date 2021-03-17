@@ -23,3 +23,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+kicad_proj/mte_usb_hub/mte_usb_hub-backups/
