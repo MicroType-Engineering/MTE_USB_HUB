@@ -314,6 +314,10 @@
     [
       "40388011-52d0-4fd1-ba4b-976a75c554b8",
       "USB_HUB"
+    ],
+    [
+      "5477f02e-abee-4723-88cd-b9cc0d664943",
+      "UFP_MUX"
     ]
   ],
   "text_variables": {}
