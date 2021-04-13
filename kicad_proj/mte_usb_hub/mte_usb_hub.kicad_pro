@@ -318,6 +318,18 @@
     [
       "5477f02e-abee-4723-88cd-b9cc0d664943",
       "UFP_MUX"
+    ],
+    [
+      "ab222306-240b-4e32-b015-2b19f02e8ede",
+      "BUCK_REG"
+    ],
+    [
+      "92f1d2ac-baa4-4ad5-8ecd-7a1bc6651026",
+      "INPUT FILTER"
+    ],
+    [
+      "a9a2f628-246b-43c1-a787-62d24a7ba8d0",
+      "BUCK_REG1"
     ]
   ],
   "text_variables": {}

@@ -1,0 +1,34 @@
+(kicad_sch (version 20210126) (generator eeschema)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (wire (pts (xy 88.9 60.96) (xy 92.71 60.96))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 7ecc5ca8-09f0-4423-a826-411ea7e3b984)
+  )
+  (wire (pts (xy 88.9 66.04) (xy 92.71 66.04))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 22abc8f7-2725-4459-a73a-7780855aab55)
+  )
+
+  (hierarchical_label "VIN" (shape input) (at 88.9 60.96 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid efd08090-d52a-489e-a2e5-f9da151038da)
+  )
+  (hierarchical_label "GND_IN" (shape input) (at 88.9 66.04 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid bfd6e36e-6152-464d-8d13-29bbeea52562)
+  )
+  (hierarchical_label "VOUT" (shape output) (at 92.71 60.96 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 15993db0-0eda-4835-af16-f7d957d78553)
+  )
+  (hierarchical_label "GND_OUT" (shape output) (at 92.71 66.04 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid dad3d540-7c76-4f2f-9d84-79bc8aedce02)
+  )
+)
