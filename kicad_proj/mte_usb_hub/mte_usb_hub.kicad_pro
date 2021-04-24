@@ -425,6 +425,14 @@
     [
       "a4a747a4-67a2-4e41-9d80-fa1969792b78",
       "3v3 LDO"
+    ],
+    [
+      "a9db1ed0-ecb9-445b-bbf3-fabf8c6d613c",
+      "VBUS Monitor"
+    ],
+    [
+      "be755591-c65a-4397-a207-bea58f6b33c1",
+      "VBUS Monitor_1"
     ]
   ],
   "text_variables": {}
