@@ -4031,8 +4031,17 @@
     (path "/92f1d2ac-baa4-4ad5-8ecd-7a1bc6651026/46f442bd-c3b7-487b-97e6-de01471dd305"
       (reference "C?") (unit 1) (value "GCJ32EC71E226KE02") (footprint "footprints:CAPACITOR_1210N")
     )
+    (path "/92f1d2ac-baa4-4ad5-8ecd-7a1bc6651026/6077fd28-ec39-4905-8b2c-3098718694a5"
+      (reference "C?") (unit 1) (value "EEE-HAE471UAP") (footprint "")
+    )
     (path "/92f1d2ac-baa4-4ad5-8ecd-7a1bc6651026/a36c052b-b292-471a-bffd-a91c5f650844"
       (reference "C?") (unit 1) (value "CC0603KRX5R9BB105") (footprint "footprints:CAPACITOR_0603N")
+    )
+    (path "/92f1d2ac-baa4-4ad5-8ecd-7a1bc6651026/a85c003d-d3cb-42fb-aae4-5e18f92dab3b"
+      (reference "C?") (unit 1) (value "EEE-HAE471UAP") (footprint "")
+    )
+    (path "/92f1d2ac-baa4-4ad5-8ecd-7a1bc6651026/de38c98e-d827-45e6-bd88-959679036498"
+      (reference "C?") (unit 1) (value "EEE-HAE471UAP") (footprint "")
     )
     (path "/92f1d2ac-baa4-4ad5-8ecd-7a1bc6651026/e24d04af-6848-4430-a81a-23c811f49de4"
       (reference "C?") (unit 1) (value "GCJ32EC71E226KE02") (footprint "footprints:CAPACITOR_1210N")
