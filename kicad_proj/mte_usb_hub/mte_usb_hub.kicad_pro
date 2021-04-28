@@ -431,8 +431,24 @@
       "VBUS Monitor"
     ],
     [
+      "0f34802f-c27c-4349-9b6f-e18ba1df6bec",
+      "USB_A Filter"
+    ],
+    [
       "be755591-c65a-4397-a207-bea58f6b33c1",
       "VBUS Monitor_1"
+    ],
+    [
+      "dcdc3a87-3244-4e3e-9181-7a5cb3daeae7",
+      "USB_A Filter_1"
+    ],
+    [
+      "f9089004-c637-4e9f-a4d0-4dce4646617e",
+      "USB_A Filter_2"
+    ],
+    [
+      "52b756c8-bf19-4c93-8b80-e130b7a6819d",
+      "USB_A Filter_3"
     ]
   ],
   "text_variables": {}
