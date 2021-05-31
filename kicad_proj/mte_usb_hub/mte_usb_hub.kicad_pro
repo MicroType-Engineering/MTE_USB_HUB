@@ -376,6 +376,7 @@
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
       "field_names": [],
+      "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
@@ -390,6 +391,12 @@
       "version": 0
     },
     "net_format_name": "",
+    "ngspice": {
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -399,7 +406,7 @@
   },
   "sheets": [
     [
-      "40388011-52d0-4fd1-ba4b-976a75c554b8",
+      "05e49106-1a7d-4e5e-bb4c-fc2ccad2ccf8",
       ""
     ],
     [
@@ -433,6 +440,10 @@
     [
       "0f34802f-c27c-4349-9b6f-e18ba1df6bec",
       "USB_A Filter"
+    ],
+    [
+      "117dfb2d-64d7-4a78-a281-179f8253d274",
+      "USB_C Filter"
     ],
     [
       "be755591-c65a-4397-a207-bea58f6b33c1",
