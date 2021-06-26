@@ -1,4 +1,4 @@
-(kicad_sch (version 20210406) (generator eeschema)
+(kicad_sch (version 20210606) (generator eeschema)
 
   (uuid 55a71ce8-56ca-406f-b701-ff24a6f47980)
 
@@ -2599,7 +2599,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 28a6061c-db17-4e4a-9f60-06708d8d48ee)
   )
-  (text "Only valid config for \n~CFG_STRAP_X and test\npins as per datasheet"
+  (text "Only valid config for \n~{CFG_STRAP_X and test\npins as per datasheet}"
     (at 143.51 118.11 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid b8fa0be8-9e48-4a9c-a521-6d6104483465)

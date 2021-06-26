@@ -1,4 +1,4 @@
-(kicad_sch (version 20210406) (generator eeschema)
+(kicad_sch (version 20210606) (generator eeschema)
 
   (uuid eee3a15c-e309-4de5-a765-1adc7fcf6e65)
 
@@ -15,7 +15,7 @@
       (property "Footprint" "" (id 2) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "~" (id 3) (at 0 0 0)
+      (property "Datasheet" "~{}" (id 3) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_keywords" "inductor choke coil reactor magnetic" (id 4) (at 0 0 0)
@@ -1647,7 +1647,7 @@
     (property "Footprint" "mte_usb_footprints:INDM1350X1350X700L250X300N" (id 2) (at 127 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 127 73.66 0)
+    (property "Datasheet" "~{}" (id 3) (at 127 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "id" "1.5uH" (id 4) (at 127 74.93 90))
